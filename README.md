@@ -1,14 +1,14 @@
 # Leveraging Whisper ASR with LLM Fine-Tuning for End-to-End Multi-Lingual Speech Dialect Classification in Dravidian Languages
 
 ## Overview
-This project is focused on addressing the speech variations caused due to regional dialects particularly in Dravidian languages such as Tamil, Malayalam, and Kannada. In our study, we created a dialected speech corpus for all three languages (not open sourced yet) and leveraged the pre-trained whisper ASR model with LLM's Fine-tuning approaches such as Low-rank Adaptation (LoRA) and Quantized-LoRA (QLoRA) for multi-class classification of dialects.
+This project addresses speech variations caused by regional dialects, specifically focusing on Dravidian languages such as Tamil, Malayalam, and Kannada. We have created a dialect-specific speech corpus for these languages (currently not open-sourced) and utilized the pre-trained Whisper ASR model. We applied advanced fine-tuning techniques, including Low-Rank Adaptation (LoRA) and Quantized-LoRA (QLoRA), for multi-class classification of dialects.
 
-This repository contains the inforamtion about the sample audio files for each dialects from all three Dravidian languages mentioned above and contains the meta-data informations such as number of dialects per language, number of speech utterances, duration in hours and minutes and number of unique speakers, and average duration per utterance for all three langauges. The data collection process is deatiled in this figure below ![](https://raw.githubusercontent.com/Dialect-ICASSP/Dialects/main/DataCreation-Flow.png) 
+This repository provides information about sample audio files for each dialect within the aforementioned Dravidian languages. It includes metadata such as the number of dialects per language, the number of speech utterances, duration in hours and minutes, the number of unique speakers, and the average duration per utterance for each language. Detailed information about the data collection process is illustrated in the figure below. ![](https://raw.githubusercontent.com/Dialect-ICASSP/Dialects/main/DataCreation-Flow.png) 
 
 
-# The detailed meta-data information for all three languages are given in the table below.
+## The detailed meta-data information for all three languages are given in the table below.
 
-## Data Statistics for Tamil
+### Data Statistics for Tamil
 
 | Languages | Dialects    | No. of Utterances | Duration (in hours) | Duration (in minutes) | Male Speakers | Female Speakers | Total Unique Speakers | Average Duration per Utterance |
 |-----------|-------------|-------------------|----------------------|------------------------|---------------|-----------------|------------------------|----------------------------------|
