@@ -6,7 +6,7 @@ This project addresses speech variations caused by regional dialects, specifical
 This repository provides information about sample audio files for each dialect within the aforementioned Dravidian languages. It includes metadata such as the number of dialects per language, the number of speech utterances, duration in hours and minutes, the number of unique speakers, and the average duration per utterance for each language. Detailed information about the data collection process is illustrated in the figure below. ![](https://raw.githubusercontent.com/Dialect-ICASSP/Dialects/main/DataCreation-Flow.png) 
 
 
-## The detailed meta-data information for all three languages are given in the table below.
+## The detailed meta-data information for all three languages are given in the tables below.
 
 ### Data Statistics for Tamil
 
