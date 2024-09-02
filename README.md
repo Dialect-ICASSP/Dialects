@@ -29,8 +29,8 @@ This repository provides information about sample audio files for each dialect w
 ### Data Statistics for Kannada
 | Languages | Dialects    | No. of Utterances | Duration (in hours) | Duration (in minutes) | Male Speakers | Female Speakers | Total Unique Speakers | Average Duration per Utterance |
 |-----------|-------------|-------------------|----------------------|------------------------|---------------|-----------------|------------------------|----------------------------------|
-|  Kannada    | North-Kannada     | 2153              | 5.98                 | 358.8                    |             |               |                      | 10                               |
-| Kannada     | South-Kannada  | 1895              | 5.26                 | 315.6                  |             |                |                      | 10                               |
-| Kannada     | Coastal-Kannada     | 2691              | 7.47                 | 448.2                  |             |               |                      | 10                               |
-| Kannada     | Uttara-Kannada | 2192              | 6.09                 | 365.4                  |             |               |                     | 10                               |
+|  Kannada    | North-Kannada     | 2153              | 5.98                 | 358.8                    |   18          |        8       |        26              | 10                               |
+| Kannada     | South-Kannada  | 1895              | 5.26                 | 315.6                  |      13       |  2              |       15               | 10                               |
+| Kannada     | Coastal-Kannada     | 2691              | 7.47                 | 448.2                  |     2        |         -      |         2             | 10                               |
+| Kannada     | Uttara-Kannada | 2192              | 6.09                 | 365.4                  |     -        |        1       |            1         | 10                               |
 
