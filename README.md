@@ -33,3 +33,4 @@ This repository provides information about sample audio files for each dialect w
 | Kannada     | South-Kannada  | 1895              | 5.26                 | 315.6                  |             |                |                      | 10                               |
 | Kannada     | Coastal-Kannada     | 2691              | 7.47                 | 448.2                  |             |               |                      | 10                               |
 | Kannada     | Uttara-Kannada | 2192              | 6.09                 | 365.4                  |             |               |                     | 10                               |
+
