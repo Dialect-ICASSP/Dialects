@@ -7,7 +7,7 @@ This repository provides information about sample audio files for each dialect w
 
 ## The detailed meta-data information for all three languages are given in the tables below.
 
-### Data Statistics for Tamil (Total unique speakers: )
+### Data Statistics for Tamil (Total unique speakers: 285)
 
 | Dialects    | No. of Utterances | Duration (in hours) | Duration (in minutes) | 
 |-----------|-------------|-------------------|----------------------|
@@ -25,7 +25,7 @@ This repository provides information about sample audio files for each dialect w
 | Trivandrum     | 1001              | 3.53                 | 211.8            | 
 | Thrissur | 1838              | 5.11                 | 306.6                  |   
 
-### Data Statistics for Kannada (Total unique speakers: )
+### Data Statistics for Kannada (Total unique speakers: 44)
 
 | Dialects    | No. of Utterances | Duration (in hours) | Duration (in minutes) |
 |-----------|-------------|-------------------|----------------------|
