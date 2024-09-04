@@ -10,7 +10,7 @@ This repository provides information about sample audio files for each dialect w
 ### Data Statistics for Tamil (Total unique speakers: )
 
 | Dialects    | No. of Utterances | Duration (in hours) | Duration (in minutes) | 
-|-----------|-------------|-------------------|----------------------|------------------------|---------------|-----------------|------------------------|----------------------------------|
+|-----------|-------------|-------------------|----------------------|
 | Chennai     | 1799              | 5.00                 | 300                    | 
 | Coimbatore  | 2188              | 6.08                 | 364.8                  | 
 | Madurai     | 2480              | 6.89                 | 413.4                  | 
@@ -19,7 +19,7 @@ This repository provides information about sample audio files for each dialect w
 ### Data Statistics for Malayalam (Total unique speakers: )
 
 | Dialects    | No. of Utterances | Duration (in hours) | Duration (in minutes) | 
-|-----------|-------------|-------------------|----------------------|------------------------|---------------|-----------------|------------------------|----------------------------------|
+|-----------|-------------|-------------------|----------------------|
 | Kottayam     | 1879              | 5.22                 | 313.2              |
 | Kozhikode  | 2490              | 6.92                 | 415.2                |
 | Trivandrum     | 1001              | 3.53                 | 211.8            | 
@@ -28,7 +28,7 @@ This repository provides information about sample audio files for each dialect w
 ### Data Statistics for Kannada (Total unique speakers: )
 
 | Dialects    | No. of Utterances | Duration (in hours) | Duration (in minutes) |
-|-----------|-------------|-------------------|----------------------|------------------------|---------------|-----------------|------------------------|----------------------------------|
+|-----------|-------------|-------------------|----------------------|
 | North-Kannada     | 2153              | 5.98                 | 358.8                    |  
 | South-Kannada  | 1895              | 5.26                 | 315.6                  |      
 | Coastal-Kannada     | 2691              | 7.47                 | 448.2                  |    
