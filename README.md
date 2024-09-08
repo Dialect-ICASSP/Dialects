@@ -16,7 +16,7 @@ This repository provides information about sample audio files for each dialect w
 | Madurai     | 2480              | 6.89                 | 413.4                  | 
 | Thoothukudi | 1840              | 5.11                 | 306.6                  | 
 
-### Data Statistics for Malayalam (Total unique speakers: )
+### Data Statistics for Malayalam (Total unique speakers: 103)
 
 | Dialects    | No. of Utterances | Duration (in hours) | Duration (in minutes) | 
 |-----------|-------------|-------------------|----------------------|
